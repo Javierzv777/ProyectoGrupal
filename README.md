@@ -1,5 +1,5 @@
 # ProyectoGrupal
-<h4project made in collaboration with Federico Carballo, Luciana Zanetti, Cristian Pineda, Juan Cruz Raush, Juan Buccolini and Joaquin Monzón.</h4>
+<h4>project made in collaboration with Federico Carballo, Luciana Zanetti, Cristian Pineda, Juan Cruz Raush, Juan Buccolini and Joaquin Monzón.</h4>
 
 <img src="https://i.ibb.co/47DGCPB/Captura-desde-2022-07-18-22-37-17.png" />
 <br/>
